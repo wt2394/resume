@@ -3,7 +3,7 @@
 #Education
 - [Columbia University](https://www.columbia.edu/)
 - [Duke Kunshan University](https://www.dukekunshan.edu.cn/)
-#Professional Interests
+###Professional Interests
 - ESG & sustainability reporting
 - Climate risk
 
